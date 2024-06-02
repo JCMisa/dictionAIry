@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(17 24 39 / 1);
+}
+
+body::-webkit-scrollbar {
+  background-color: transparent;
+  max-width: 8px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(42, 44, 188);
+}
